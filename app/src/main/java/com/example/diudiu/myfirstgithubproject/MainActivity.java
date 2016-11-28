@@ -11,12 +11,15 @@ public class MainActivity extends AppCompatActivity {
     private Button button;
     private TextView textView;
 
+    private Button button2;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
         this.button = (Button) findViewById(R.id.button);
+        this.button2 = (Button) findViewById(R.id.button2);
         this.textView = (TextView) findViewById(R.id.textView);
 
         this.button.setOnClickListener(new View.OnClickListener() {
