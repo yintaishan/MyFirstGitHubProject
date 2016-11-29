@@ -35,39 +35,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        /**
-         * dev2branch 添加第一行
-         * 添加第二行
-         * 添加第三行
-         */
-
-        /**
-         * dev3branch 添加第一行
-         * dev3branch 添加第二行
-         * dev3branch 添加第三行
-         */
-
-        // master 主分支 commit1
-
-        /**
-         * dev4branch 添加第一行
-         * dev4branch 添加第二行
-         * dev4branch 添加第三行
-         * dev4branch 添加第四行
-         */
-
-        /**
-         * dev6branch 添加第一行 dev8branch修改数据  dev8branch又修改数据
-         * dev6branch 添加第二行
-         */
-
-        /**
-         * dev7branch 添加第一行
-         */
-
-        /**
-         *  master8 添加数据
-         */
 
     }
 }
