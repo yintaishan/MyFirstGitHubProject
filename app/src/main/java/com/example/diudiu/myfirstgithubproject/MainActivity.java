@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 textView.setText("button2 clicked!!!");
+                System.out.println("Fuck The Code !!!");
             }
         });
 
