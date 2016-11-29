@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 textView.setText("button clicked!!!");
+                //System.out.println("Fuck The Code !!!");
             }
         });
 
