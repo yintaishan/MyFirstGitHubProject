@@ -48,7 +48,6 @@ public class MainActivity extends AppCompatActivity {
          */
 
         // master 主分支 commit1
-        // master 主分支 commit2
 
         /**
          * dev4branch 添加第一行
