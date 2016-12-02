@@ -1,5 +1,5 @@
 common.txt   tarzan2010@163.com  添加一行
 common.txt   tarzan2010@163.com  添加2
 common.txt   tarzan2010@163.com  添加2
-common.txt   yintaishan@gmail.com    添加内容1 冲突行
-common.txt   yintaishan@gmail.com    添加内容2 冲突行
+common.txt   yintaish阿阿斯顿发电爱的an@gmail.com    添加内容1 冲突行
+common.txt   yintaishan阿斯蒂芬爱的@gmail.com    添加内容2 冲突行
